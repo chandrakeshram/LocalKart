@@ -49,9 +49,10 @@
 
 }
 .carousel-item {
-    height: 20rem;
-    width: auto;
+    height: 15rem;
+    width: 90%;
     align-items: center;
+    margin:auto;
 
 }
 .carousel-item img{
