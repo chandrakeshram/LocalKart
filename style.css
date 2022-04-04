@@ -50,7 +50,7 @@
 }
 .carousel-item {
     height: 20rem;
-    width: 100%;
+    width: auto;
     align-items: center;
 
 }
